@@ -18,7 +18,7 @@ class CrearTablaLibro extends Migration
             $table->string('titulo', 100);
             $table->string('isbn', 30);
             $table->string('autor', 100);
-            $table->unsignedTinyInteger('candad');
+            $table->unsignedTinyInteger('cantidad');
             $table->string('editorial', 50)->nullable();
             $table->string('foto', 100)->nullable();
             $table->timestamps();
