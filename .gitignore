@@ -1,7 +1,6 @@
 /node_modules
 /public/hot
 /public/storage
-/resources/lte/assets
 /storage/*.key
 /vendor
 .env
@@ -12,4 +11,3 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 /idea
-/resources/views/themes/lte
