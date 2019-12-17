@@ -13,12 +13,4 @@
 
 
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('foo', function (){
-    return 'Teñikaler Smith';
-});
-
-Route::get('permiso', 'PeermisoController@index');
+Route::get('/', 'InicioController@index');
