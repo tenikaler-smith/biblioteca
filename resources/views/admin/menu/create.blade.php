@@ -1,4 +1,7 @@
 @extends("themes.$theme.layout")
+@section('titulo')
+    Sistema de Menu 
+@endsection
 
 @section('contenido')
 
@@ -7,7 +10,7 @@
             <div class="col-lg-12 ">
                 <div class="card card-primary card-outline">
                     <div class="card-header">
-                        <h1 class="card-title text-center align-content-center">Crear Usuario</h1>
+                        <h1 class="card-title text-center align-content-center">Crear Menu</h1>
                         <br><br>
 
                         <!-- /.card-header -->
