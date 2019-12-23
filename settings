@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\laragon\\bin\\cmder\\cmder.bat",
+    //"C:\\laragon\\bin\\cmder\\Cmder.exe"
+    //"C:\\Program Files\\Git\\bin\\bash.exe",
+    //"workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": true,
+    "blade.format.enable": true,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "window.zoomLevel": 0,
+    "git.path": "C:\\laragon\\bin\\git\\bin\\git.exe"
+}
