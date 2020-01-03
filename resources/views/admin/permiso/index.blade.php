@@ -38,7 +38,7 @@
                                         <td>{{$permiso ->slug}}</td>
                                         <td></td>
                                     </tr>
-                                    
+
                                 @endforeach
 
                             </tbody>
@@ -60,4 +60,4 @@
         </div>
     </div>
 
-    @endsection
+@endsection

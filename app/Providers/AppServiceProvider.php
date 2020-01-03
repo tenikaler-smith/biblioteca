@@ -2,8 +2,10 @@
 
 namespace App\Providers;
 
-use Facade\FlareClient\View;
+use App\Models\Admin\Menu;
+use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
+
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -24,6 +26,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+
         View()->share('theme', 'lte');
     }
 }

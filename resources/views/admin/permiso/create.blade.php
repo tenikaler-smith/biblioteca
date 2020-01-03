@@ -1,4 +1,7 @@
 @extends("themes.$theme.layout")
+@section('titulo')
+    Sistema de permiso
+@endsection
 
 @section('contenido')
 
