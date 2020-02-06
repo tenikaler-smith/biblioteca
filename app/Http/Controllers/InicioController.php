@@ -13,7 +13,7 @@ class InicioController extends Controller
      */
     public function index()
     {
-        return view("inicio");
+        return view("welcome");
     }
 
     /**
