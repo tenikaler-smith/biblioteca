@@ -90,7 +90,7 @@
                     <a href="#">Portafolio</a>
                     <a href="#">Galeria</a>
                     <a href="#">Contacto</a>
-                    <a href="https://github.com/ArciSmith" target="_blank">GitHub - Teñikaler Smith</a>
+                    <a href="https://github.com/iampitufo" target="_blank">GitHub - Teñikaler Smith</a>
                 </div>
             </div>
         </div>
